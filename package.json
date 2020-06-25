@@ -1,0 +1,24 @@
+{
+  "name": "blogposts-api",
+  "version": "1.0.0",
+  "description": "fetching blogposts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YazanAlmatar99/BlogPosts-API-hatchways.io-.git"
+  },
+  "author": "Yazan Almatar. yazanalmatar.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YazanAlmatar99/BlogPosts-API-hatchways.io-/issues"
+  },
+  "homepage": "https://github.com/YazanAlmatar99/BlogPosts-API-hatchways.io-#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
